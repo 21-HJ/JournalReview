@@ -142,7 +142,7 @@ editor: visual
 -   **Intravascular imaging 군의 TVF 누적발생률이 유의미하게 낮음**<br><br>
 -   At 3 years, 7.7% vs 12.3%, HR 0.64, 95% CI 0.45\~0.89, **p-value: 0.008**
 
-## Primary Endopoints
+## Primary Endpoints
 
 ::: panel-tabset
 ### Table 3
