@@ -35,8 +35,11 @@ editor: visual
 ## Patients
 
 -   **선정기준**: Complex lesion으로 PCI가 필요한 19-85세 환자들 <br> <br>
+
+-   **drop out**: 시술자 판단, cardiogenic shock, hypersensitivity to 항응고제제, 조영제, 임산부/수유모 etc.<br><br>
+
 -   **Complex lesion**<br> True bifurcation lesion(side branch diameter \>2.5mm) <br> total occlusion <br> unprotected LMA disease<br> long lesion(expected stent length \> 38) <br> multi vessel PCI involving 2 or more epicardial CA<br> lesion needs 2 or more stents, <br> in-stent restenosis, <br> calcified lesion <br> ostial lesion of a major epicardial CA.
--   **drop out**: 시술자 판단, cardiogenic shock, hypersensitivity to 항응고제제, 조영제, 임산부/수유모 etc.
+
 
 ## Randomization
 
