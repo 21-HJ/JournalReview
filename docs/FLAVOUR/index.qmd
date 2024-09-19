@@ -16,7 +16,7 @@ editor: visual
 
 -   CAD에서 예후를 예측하는 지표로 luminal narrowing, plaque burden/characteristics, physiologic significance등이 있다.
 -   현재 이를 확인하기 위한 표준 기법은 CAG이다. 이밖에 IVUS, FFR등을 이용, 추가 정보를 확인할 수 있다.
--   IVUS는 detailed anatomical information(lumen, vessel, plaque. etc.)를 제공하며, IVUS guided PCI는 angiography guided PCi에 비해 좋은 예후를 보인다는 연구가 있다.
+-   IVUS는 detailed anatomical information(lumen, vessel, plaque. etc.)를 제공하며, IVUS guided PCI는 angiography guided PCI에 비해 좋은 예후를 보인다는 연구가 있다.
 -   FFR는 stenosis가 ischemia를 유발하는지 확인할 수 있으며, FFR guided PCI는 angio guided PCI나 medical treatment에 비해 clinical event를 감소시킨다는 연구가 있다.
 -   IVUS, FFR 모두 clinical outcome을 개선하는 연구가 있지만, 이들 둘의 임상 효과를 비교, 정리한 연구는 없다.
 
@@ -53,7 +53,7 @@ editor: visual
 ### IVUS 군
 
 -   **IVUS 군 PCI 시행 기준**: minimal lumen area measuring (MLA) ≤ 3mm\^2 <br> OR 3 \< MLA ≤ 4mm\^2 + Plaque burden \> 70% <br><br>
--   **IVUS 군 PCI 성공 기준**: plaque burden at stent edge ≤ 55% + minimal stent area (MSA) ≥ \[5.5mm\^2 <br> OR minimal stent area ≥ distal reference lumen area\]
+-   **IVUS 군 PCI 성공 기준**: plaque burden at stent edge ≤ 55% + minimal stent area (MSA) ≥ \5.5mm\^2 <br> OR minimal stent area ≥ distal reference lumen area\
 :::
 
 ## Primary End point
@@ -62,7 +62,7 @@ editor: visual
 
 ## Secondary End point
 
--   Primary end point의 구성요소들, 사용한 스텐트 수(per patient, vessel), stroke, 환자 자가설문, SYNTAX score 등
+-   Primary end point의 구성요소들,<br> 사용한 스텐트 수(per patient, vessel),<br> stroke, 환자 자가설문, SYNTAX score 등
 
 ## Statistical analysis
 
@@ -75,14 +75,11 @@ editor: visual
 
 ## Statistical analysis
 
--   primary outcome: Cox proportional-hazards model
--   Kaplan-Meier method was used to characterize the time until the first event
--   **Intention-to-treat (ITT)** (per-protocol 분석도 시행)
--   
+-   primary outcome: **Cox proportional-hazards model**
+-   **Kaplan-Meier method** was used to characterize the time until the first event
+-   **Intention-to-treat (ITT)** (per-protocol 분석도 시행) <br><br>
+-   f/u: 시술 후 1, 12, 24m
 
-<!-- ## Follow up -->
-
-<!-- -   시술 후 1, 12, 24개월 -->
 
 ## Study design
 
@@ -115,7 +112,7 @@ editor: visual
 ## Procedural characteristic
 
 -   두 군의 **lesion lenght, vessel diameter, stenosis diameter에는 유의미한 차이가 없었다.**<br><br>
--   환자별 분석, 혈관별 분석 모두에서 **IVUS 군의 PCI 시행빈도가 더 높았다.** (환자 수: 65.3% vs 44.4%; 혈관 수: 58.4% vs 33.2%) <br><br>
+-   환자별 분석, 혈관별 분석 모두에서<br> **IVUS 군의 PCI 시행빈도가 더 높았다.**<br> (환자 수: 65.3% vs 44.4%; 혈관 수: 58.4% vs 33.2%) <br><br>
 -   사용한 스텐트의 수와 총 길이에는 유의미한 차이가 없었다.
 
 ## Flow diagram, Baseline
@@ -127,13 +124,13 @@ editor: visual
 
 ### Table S3
 
-<img src="FLAVOUR Table_S3.png"/>
+<img src="FLAVOUR_Table S3.png"/>
 :::
 
 ## Primary Endpoint
 
 -   f/u evaluation were completed in 99.2% (14 lost)
--   **FFR 군, IVUS 군의 Primary outcome event 누적발생률이 각각 8.1%(67), 8.5%(71)**로 나타남.<br> -0.4%pp; 95% CI 상한 1.8pp, 97.5% CI 상한 2.2pp, **p-value: 0.01 for noninferiority** <br><br>
+-   **FFR 군, IVUS 군의 Primary outcome event 누적발생률이<br> 각각 8.1%(67), 8.5%(71)**로 나타남.<br> -0.4%pp; 95% CI 상한 1.8pp, 97.5% CI 상한 2.2pp, <br>**p-value: 0.01 for noninferiority** <br><br>
 
 ## Endpoints and Cumulative incidence
 
@@ -149,9 +146,9 @@ editor: visual
 
 ## Secondary Endpoint
 
--   secondary outcomes was similar in to groups
--   당뇨 유무, 분석법 차이 (ITT(8.7%) vs per-protocol(8.2%)) 모두 결과에 영향을 주지 않았다.
--   PCI 성공율: 두 군간 유의미한 차이 없었다. (50.1% vs 54.8%)
+-   secondary outcomes was similar in two groups
+-   당뇨 유무, 분석법 차이 (ITT(8.7%) vs per-protocol(8.2%))<br> 모두 결과에 영향을 주지 않았다.
+-   PCI 성공율: 두 군간 유의미한 차이 없었다.<br> (50.1% vs 54.8%)
 -   SAQ score 또한 유사했다.
 
 ## Endpoints and Cumulative incidence
@@ -168,23 +165,23 @@ editor: visual
 
 ## Conclusion
 
--   **FLAVOUR trial은 24개월의 관찰 결과, intermediate coronary stenosis 환자를 대상으로 PCI 시행 여부 결정 및 시행 시 치료 성적의 측면에서 FFR이 IVUS에 비해 열등하지 않음을 보였다.**<br><br>
+-   FLAVOUR trial은 24개월의 관찰 결과, <br>intermediate coronary stenosis 환자를 대상으로 <br>**PCI 시행 여부 결정 및 시행 시** 치료 성적의 측면에서<br> **FFR이 IVUS에 비해 열등하지 않음**을 보였다.
 
 ## Discussion_1
 
 -   두 군의 병변 차이가 없었음에도, **IVUS군에서 PCI를 더 많이 수행했다.** <br>
--   그러나 치료 성적에 차이가 없었으므로, 이는 현재 **IVUS의 PCI 시행 기준이 엄격하지 않다**는 점을 시사한다. <br>
--   또한 협착이 flow-limiting 하지 않을 경우, 즉 **실제 허혈로 이어질 가능성이 낮은 경우에는 스텐트를 설치하는 것이 오히려 해로울 수 있다.** 따라서 IVUS 사용에 유의해야 한다.
+-   그러나 치료 성적에 차이가 없었으므로, 이는 현재<br>**IVUS의 PCI 시행 기준이 엄격하지 않다**는 점을 시사한다. <br>
+-   또한 협착이 flow-limiting 하지 않을 경우, 즉 **실제 허혈로 이어질 가능성이 낮은 경우에는 스텐트를 설치하는 것이 오히려 해로울 수 있다.**<br> 따라서 IVUS 사용에 유의해야 한다.
 
 ## Discussion_2
 
--   반면 FFR은 스텐트 설치에 큰 도움이 되지 않는다고 여겨졌으나, 본 연구에서는 IVUS에 열등하지 않은 치료 성적을 보였다. <br><br>
--   이는 **FFR이 스텐트 설치에도 도움이 될 수 있음을 시사한다.** 그 외에도 적은 PCI 사용은 **적은 항혈소판제 사용**으로 이어지는 또 다른 이점이 있다. <br><br>
+-   반면 FFR은 스텐트 설치에 있어서는 큰 도움이 되지 않는다고 여겨졌으나, 본 연구에서 **IVUS에 열등하지 않은 치료 성적**을 보였다. <br><br>
+-   이는 **FFR이 스텐트 설치에도 도움이 될 수 있음을 시사한다.** 그 외에도 FFR 이용으로 감소한 PCI 사용은 **적은 항혈소판제 사용**으로 이어지는 이점이 있다. <br><br>
 
 ## Discussion_3
 
 -   FFR과 IVUS는 각각 목적이 다르지만, 많은 기관이 한 기기만 구입하여 사용한다. <br><br>
--   그러나 **FFR은 고위험군에서 치료를 덜 할 위험이 있고, IVUS에서 발견되는 심한 협착 및 고위험 plaque은 실제 예후와 연관이 없는 경우가 있다.** 따라서 두 검사법을 비교한 연구가 필요했다. <br><br>
+-   그러나 **FFR은 고위험군에서 치료를 덜 할 위험이 있고,<br> IVUS에서 발견되는 심한 협착 및 고위험 plaque는<br> 실제 예후와 연관이 없는 경우가 있다.** 따라서 두 검사법을 비교한 연구가 필요했다. <br><br>
 -   결론적으로, 본 연구결과는 **FFR과 IVUS 중 한 검사법만 사용하여도 괜찮음**을 시사한다.
 
 ## Limits_1
